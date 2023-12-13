@@ -1,5 +1,5 @@
-User; Hey:
-Junior; Hey; I want a merge. Will somebody review it for me?:
+User; Hey : N
+Junior; Hey; I want a merge. Will somebody review it for me?: N
 Middle; Hey; I want a merge. Will somebody review it for me?: AAAAaaa! No! No TL code review, please!
 Senior; Hey: You aresuch a jnr! Are you afraid of the Team Lead?
 Team Lead; Hey; I have a non-fallen prod: Of course, baby. Be ready to suffer

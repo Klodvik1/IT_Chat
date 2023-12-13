@@ -1,3 +1,5 @@
+import java.util.regex.Pattern;
+
 public class Person {
     String nickname;
     Users role;
@@ -5,17 +7,15 @@ public class Person {
 
 
     Person(String words, Users[] user){
-        String[] str = words.split(" ");
+        String[] str = Pattern.compile(" ").split(words);
+
         if (str.length > 2){
             str[1] += " " + str[2];
         }
         nickname = str[0];
-//        str[1]= str[1].replaceAll(".$", "");
-        System.out.println(str[1]);
         for (int i = 0; i < user.length; i++){
             if (user[i].roleChat.equals(str[1])){
                 role = user[i];
-                System.out.println(str.length);
             }
         }
     }
