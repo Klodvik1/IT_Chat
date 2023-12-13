@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85ed7e5e-ab18-424f-b978-d888e554e85a" name="Changes" comment="Add method Type">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="85ed7e5e-ab18-424f-b978-d888e554e85a" name="Changes" comment="ADD compile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702402840094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ADD compile">
+      <created>1702483175897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702483175897</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +115,7 @@
     <MESSAGE value="1.0" />
     <MESSAGE value="Read roles and their copies from a file, as well as read usernames from a file and associate them with roles." />
     <MESSAGE value="Add method Type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add method Type" />
+    <MESSAGE value="ADD compile" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD compile" />
   </component>
 </project>
